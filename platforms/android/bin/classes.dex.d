@@ -1,0 +1,25 @@
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes.dex : \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\com\phonegap\helloworld\HelloWorld.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\io\cordova\hellocordova\BuildConfig.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\io\cordova\hellocordova\HelloCordova.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\io\cordova\hellocordova\HelloWorld.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\io\cordova\hellocordova\R$attr.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\io\cordova\hellocordova\R$drawable.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\io\cordova\hellocordova\R$string.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\io\cordova\hellocordova\R$xml.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\io\cordova\hellocordova\R.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\device\Device.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$1.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$2.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$3.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$4.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$1.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$2.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$3.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$4.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$5.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$5.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser$InAppBrowserClient.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppBrowser.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\classes\org\apache\cordova\inappbrowser\InAppChromeClient.class \
+C:\Projetos\pdfandroid\app\platforms\android\bin\dexedLibs\classes-e305018696c99a54bebfbdfb9a297cc3.jar \
