@@ -1,0 +1,13 @@
+C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bin\Release\resources.pri
+C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bin\Release\AppxManifest.xml
+C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bin\Release\CordovaApp.build.appxrecipe
+C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bld\Release\priconfig.xml.intermediate
+C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bld\Release\layout.resfiles.intermediate
+C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bld\Release\resources.resfiles.intermediate
+C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bld\Release\pri.resfiles.intermediate
+C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bld\Release\priconfig.xml
+C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bld\Release\layout.resfiles
+C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bld\Release\resources.resfiles
+C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bld\Release\pri.resfiles
+C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bld\Release\LanguageQualifiers.txt
+C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bld\Release\ProjectArchitectures.txt

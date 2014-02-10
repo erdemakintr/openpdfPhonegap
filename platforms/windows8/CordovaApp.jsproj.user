@@ -2,8 +2,12 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>AppHostSimulatorDebugger</DebuggerFlavor>
+    <MachineName>Tlan-WFM-TST01</MachineName>
   </PropertyGroup>
   <PropertyGroup>
     <ReferenceCachePath>C:\Users\ezequielf\AppData\Local\Temp\CordovaApp_refcache</ReferenceCachePath>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>neutral</AppxBuildConfigurationSelection>
   </PropertyGroup>
 </Project>

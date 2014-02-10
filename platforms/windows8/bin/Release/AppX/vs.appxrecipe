@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TLANPA-PC02</Machine>
+    <WindowsUser>ezequielf</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>FFCFF576EBC55BC91DF7EAF100E6A028FCC5695DDD61A439CFA4EF4F18DDB15A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>io.cordova.hellocordova_0.0.1.0_neutral__dsh9t8a1qg3mw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>io.cordova.hellocordova_dsh9t8a1qg3mw!io.cordova.hellocordova</RegisteredUserModeAppID>
+    <RegisteredPackageID>io.cordova.hellocordova</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova User</RegisteredPackagePublisher>
+    <RegisteredVersion>0.0.1.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-07T16:47:40.779</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-07T12:45:35.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-07T12:45:35.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-07T12:45:37.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-07T12:45:37.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\icon.png">
+      <PackagePath>www\icon.png</PackagePath>
+      <Modified>2014-02-07T16:29:18.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\config.xml">
+      <PackagePath>www\config.xml</PackagePath>
+      <Modified>2014-02-07T16:29:18.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2014-02-07T16:29:18.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2014-02-07T16:29:18.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\plugins\org.apache.cordova.inappbrowser\www\InAppBrowser.js">
+      <PackagePath>www\plugins\org.apache.cordova.inappbrowser\www\InAppBrowser.js</PackagePath>
+      <Modified>2014-02-07T16:29:18.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\plugins\org.apache.cordova.inappbrowser\www\windows8\InAppBrowserProxy.js">
+      <PackagePath>www\plugins\org.apache.cordova.inappbrowser\www\windows8\InAppBrowserProxy.js</PackagePath>
+      <Modified>2014-02-07T16:29:18.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2014-02-07T16:29:18.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\spec.html">
+      <PackagePath>www\spec.html</PackagePath>
+      <Modified>2014-02-07T16:29:18.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-07T16:47:40.700</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

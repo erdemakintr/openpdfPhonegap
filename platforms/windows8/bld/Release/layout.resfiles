@@ -1,0 +1,12 @@
+images\logo.png
+images\smalllogo.png
+images\splashscreen.png
+images\storelogo.png
+www\config.xml
+www\cordova.js
+www\cordova_plugins.js
+www\icon.png
+www\index.html
+www\plugins\org.apache.cordova.inappbrowser\www\InAppBrowser.js
+www\plugins\org.apache.cordova.inappbrowser\www\windows8\InAppBrowserProxy.js
+www\spec.html

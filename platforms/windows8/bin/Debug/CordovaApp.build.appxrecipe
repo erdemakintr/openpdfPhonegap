@@ -7,53 +7,53 @@
     <PackageArchitecture>neutral</PackageArchitecture>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Projetos\pdfandroid\app\platforms\windows8\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Projetos\pdfandroid\app\platforms\windows8\images\logo.png">
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projetos\pdfandroid\app\platforms\windows8\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projetos\pdfandroid\app\platforms\windows8\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projetos\pdfandroid\app\platforms\windows8\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projetos\pdfandroid\app\platforms\windows8\www\icon.png">
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\icon.png">
       <PackagePath>www\icon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projetos\pdfandroid\app\platforms\windows8\www\config.xml">
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\config.xml">
       <PackagePath>www\config.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projetos\pdfandroid\app\platforms\windows8\www\cordova.js">
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\cordova.js">
       <PackagePath>www\cordova.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projetos\pdfandroid\app\platforms\windows8\www\cordova_plugins.js">
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\cordova_plugins.js">
       <PackagePath>www\cordova_plugins.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projetos\pdfandroid\app\platforms\windows8\www\plugins\org.apache.cordova.inappbrowser\www\InAppBrowser.js">
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\plugins\org.apache.cordova.inappbrowser\www\InAppBrowser.js">
       <PackagePath>www\plugins\org.apache.cordova.inappbrowser\www\InAppBrowser.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projetos\pdfandroid\app\platforms\windows8\www\plugins\org.apache.cordova.inappbrowser\www\windows8\InAppBrowserProxy.js">
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\plugins\org.apache.cordova.inappbrowser\www\windows8\InAppBrowserProxy.js">
       <PackagePath>www\plugins\org.apache.cordova.inappbrowser\www\windows8\InAppBrowserProxy.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projetos\pdfandroid\app\platforms\windows8\www\index.html">
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\index.html">
       <PackagePath>www\index.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projetos\pdfandroid\app\platforms\windows8\www\spec.html">
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\www\spec.html">
       <PackagePath>www\spec.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projetos\pdfandroid\app\platforms\windows8\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Projetos\pdfandroid\openpdfPhonegap\platforms\windows8\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

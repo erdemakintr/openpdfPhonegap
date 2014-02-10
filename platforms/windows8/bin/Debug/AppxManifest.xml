@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="io.cordova.hellocordova" Publisher="CN=Apache Cordova User" Version="0.0.1.0" ProcessorArchitecture="neutral" />
+  <Identity Name="io.cordova.hellocordova" Publisher="CN=Apache Cordova User" Version="0.0.1.4" ProcessorArchitecture="neutral" />
   <Properties>
     <DisplayName>HelloCordova</DisplayName>
     <PublisherDisplayName>Apache Cordova Team</PublisherDisplayName>
